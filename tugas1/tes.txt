@@ -1,0 +1,16 @@
+1. Apa fungsi atribut next pada kelas Node?
+   Atribut 'next' pada kelas 'Node' memiliki fungsi sebagai penunjuk atau referensi ke node berikutnya dalam struktur
+    data linked list. Dengan adanya atribut next,
+   kita bisa membuat koneksi antara satu node dengan node lainnya, membentuk urutan yang berkelanjutan dalam linked list.
+   
+   
+2. Perintah apa yang digunakan untuk menambahkan relasi antar Node?
+   Perintah yang digunakan untuk menambahkan relasi antar Node dalam sebuah linked list adalah dengan mengatur nilai atribut
+    next dari Node yang satu ke Node yang lainnya.
+   Misalnya, jika Anda memiliki dua Node, node1 dan node2, dan Anda ingin node1 menjadi node sebelum node2 dalam linked list, 
+   Anda akan mengatur node1.next agar menunjuk ke node2.
+   
+   
+3. Perintah apa yang digunakan untuk menambahkan relasi antar Node?
+   Pada kode di atas, variabel p digunakan sebagai pointer atau penunjuk ke Node dalam linked list. 
+   Fungsi dari variabel p ini adalah untuk melakukan iterasi atau perjalanan melalui linked list yang telah dibuat.
